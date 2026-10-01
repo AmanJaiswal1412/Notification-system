@@ -1,0 +1,12 @@
+.env
+*.sqlite3
+__pycache__/
+*.pyc
+staticfiles/
+node_modules/
+dist/
+.venv/
+.DS_Store
+.venv/
+build/
+_project.zip
